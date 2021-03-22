@@ -16,7 +16,7 @@ Essa aplicação simula um e-commerce com carrinho de compras, nela podemos adic
 
 ## Imagens do Projeto
 <p align="center">
-  <img src="https://github.com/rodrigo-a-magalhaes/modulo-02-desafio-01-carrinho-de-compras/blob/main/thumb/demostracao.gif?raw=true">
+  <img src="https://github.com/rodrigo-a-magalhaes/modulo-02-desafio-01-carrinho-de-compras/blob/master/thumb/demostracao.gif?raw=true">
 </p>
 
 ## Install
